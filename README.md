@@ -32,8 +32,8 @@ Paso 9: El comando "git checkout hash-de-la-revisión -- nombre-de-archivo nombr
 
 <H1> Parte 2 </H1>
 Paso 1: Con este comando podemos mirar los distintos commits que hemos hecho.
-![image](https://user-images.githubusercontent.com/114684233/205121738-f2277d7f-adae-4a00-8b40-5e6ee13b5ae2.png)
 
+![image](https://user-images.githubusercontent.com/114684233/205121738-f2277d7f-adae-4a00-8b40-5e6ee13b5ae2.png)
 
 Paso 2: Ahora movemos el commit:
 ![image](https://user-images.githubusercontent.com/114684233/205122218-068d9d8d-decf-4587-aa17-90d130fb1a8d.png)
